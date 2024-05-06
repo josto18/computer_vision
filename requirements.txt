@@ -1,0 +1,5 @@
+ultralytics
+Pillow
+os
+boto3
+io
